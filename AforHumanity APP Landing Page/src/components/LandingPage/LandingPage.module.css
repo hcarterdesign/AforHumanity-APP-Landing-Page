@@ -1,0 +1,832 @@
+.iconDiscord.iconDiscord {
+  left: 153px;
+  top: 1265px;
+  width: 234px;
+  height: 234px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.iconDiscord2.iconDiscord2 {
+  left: 799px;
+  top: 2693px;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.iconFacebook.iconFacebook {
+  left: 846px;
+  top: 2693px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.iconInstagram.iconInstagram {
+  left: 893px;
+  top: 2693px;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.iconLinkedin.iconLinkedin {
+  left: 940px;
+  top: 2693px;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.iconTiktok.iconTiktok {
+  left: 987px;
+  top: 2693px;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.iconTwitter.iconTwitter {
+  left: calc(50% - -326px);
+  top: calc(50% - -1299.5px);
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.iconYoutube.iconYoutube {
+  left: 1081px;
+  top: 2693px;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 1440px;
+  height: 2811px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.rectangle34624113 {
+  position: absolute;
+  left: calc(50% - 319px);
+  top: 1213px;
+  width: 598px;
+  height: 518px;
+  border-radius: 20px;
+  background-color: #f57e20;
+  transform: translateX(-50%);
+}
+.rectangle34624114 {
+  position: absolute;
+  left: calc(50% - -318px);
+  top: 1213px;
+  width: 598px;
+  height: 518px;
+  border-radius: 20px;
+  background-color: #de2028;
+  transform: translateX(-50%);
+}
+.rectangle34624107 {
+  position: absolute;
+  left: 105px;
+  top: 879px;
+  width: 268px;
+  height: 182px;
+  border-radius: 19px;
+  background-color: #f57e20;
+}
+.rectangle346241072 {
+  position: absolute;
+  left: 431px;
+  top: 879px;
+  width: 268px;
+  height: 182px;
+  border-radius: 19px;
+  background-color: #f57e20;
+}
+.rectangle346241073 {
+  position: absolute;
+  left: 757px;
+  top: 879px;
+  width: 268px;
+  height: 175px;
+  border-radius: 19px;
+  background-color: #f57e20;
+}
+.rectangle346241074 {
+  position: absolute;
+  left: 1083px;
+  top: 879px;
+  width: 268px;
+  height: 175px;
+  border-radius: 19px;
+  background-color: #f57e20;
+}
+.rectangle64 {
+  position: absolute;
+  left: 0;
+  top: 2086px;
+  width: 1443px;
+  height: 478px;
+  background-image: linear-gradient(90deg, #eb234cff 0%, #ee5852ff 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.frame327 {
+  position: absolute;
+  left: calc(50% - 1.5px);
+  top: 1870px;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  transform: translateX(-50%);
+}
+.testimonial {
+  color: #de2028;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 267px;
+  height: 43px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.whatOurUsersSayAboutTheApp {
+  color: #000;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 523px;
+  height: 116px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.unnamed {
+  color: #000;
+  font-size: 252.8571px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 311px;
+  top: 2115px;
+  width: 118px;
+  height: 295px;
+  flex-direction: column;
+}
+.unnamed2 {
+  transform-origin: top left;
+  color: #000;
+  font-size: 252.8571px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1130px;
+  top: 2305px;
+  width: 118px;
+  height: 295px;
+  flex-direction: column;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.rectangle46 {
+  position: absolute;
+  left: 0;
+  top: 2564px;
+  width: 1440px;
+  height: 247px;
+  background-color: #000;
+}
+.followUsStayUpToDateWithOurLat {
+  position: absolute;
+  left: 799px;
+  top: 2619px;
+  width: 257px;
+  height: 31px;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 16px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label2 {
+  color: #fff;
+  font-size: 16px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.rectangle68 {
+  position: absolute;
+  left: 112px;
+  top: 163px;
+  width: 1243px;
+  height: 549px;
+  border-radius: 20px;
+  background-image: linear-gradient(90.3deg, #f9a058ff 0%, #ee5852ff 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.animeForHumanity11 {
+  position: absolute;
+  left: 112px;
+  top: 40px;
+  width: 197px;
+  height: 81px;
+  background-image:/* webpackIgnore: true */ url('/assets/animeForHumanity11.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame26 {
+  position: absolute;
+  left: calc(50% - -54.5px);
+  top: 40px;
+  width: 531px;
+  height: 65px;
+  place-content: center;
+  align-items: center;
+  gap: 16px;
+  padding: 10px;
+  border-radius: 12px;
+  transform: translateX(-50%);
+}
+.home {
+  color: #000;
+  font-size: 25px;
+  line-height: 31px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.02em;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.line14 {
+  width: 19.0263px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #000;
+  margin-bottom: -1px;
+  transform: matrix(0, 1, -1, 0, 0, 0);
+}
+.benefitsFeatures {
+  color: #000;
+  font-size: 25px;
+  line-height: 31px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.02em;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.line13 {
+  width: 19.0263px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #000;
+  margin-bottom: -1px;
+  transform: matrix(0, 1, -1, 0, 0, 0);
+}
+.testimonials {
+  color: #000;
+  font-size: 25px;
+  line-height: 31px;
+  font-weight: bold;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.02em;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame324 {
+  position: absolute;
+  left: 151px;
+  top: 195px;
+  width: 524px;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.welcomeToAnimeForHumanity {
+  color: #fff;
+  font-size: 76.2505px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.02em;
+  width: 666px;
+  height: min-content;
+  flex-direction: column;
+}
+.iHighlyRecommendThisAppToAnyAn {
+  color: #000;
+  font-size: 43.3068px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 378px;
+  top: 2217.1875px;
+  width: 681px;
+  height: 204.6248px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.weReCraftingASpaceWhereAnimeAn {
+  color: #000;
+  font-size: 29px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 152px;
+  top: 492px;
+  width: 523px;
+  height: 116px;
+  flex-direction: column;
+}
+.shirt_81 {
+  position: absolute;
+  left: 927px;
+  top: 492px;
+  width: 254px;
+  height: 290px;
+}
+.benefitsFeatures2 {
+  color: #de2028;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: calc(50% - 0.5px);
+  top: 764px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.rectangle346241075 {
+  position: absolute;
+  left: 112px;
+  top: 886px;
+  width: 268px;
+  height: 182px;
+  outline: solid 2px #000;
+  outline-offset: -2px;
+  border-radius: 19px;
+  background-color: #fff;
+}
+.findFriendsWhoLoveAnimeJustAsM {
+  color: #000;
+  font-size: 16px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 129px;
+  top: 950px;
+  width: 233.8909px;
+  height: min-content;
+  flex-direction: column;
+}
+.connect {
+  color: #000;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 129px;
+  top: 908px;
+  width: 130.3455px;
+  height: min-content;
+  flex-direction: column;
+}
+.rectangle34624108 {
+  position: absolute;
+  left: 437px;
+  top: 886px;
+  width: 268px;
+  height: 182px;
+  outline: solid 2px #000;
+  outline-offset: -2px;
+  border-radius: 19px;
+  background-color: #fff;
+}
+.useOurReflectionsFeatureToShar {
+  color: #000;
+  font-size: 16px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 454px;
+  top: 947px;
+  width: 233.8909px;
+  height: min-content;
+  flex-direction: column;
+}
+.reflect {
+  color: #000;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 454px;
+  top: 905px;
+  width: 109.6364px;
+  height: min-content;
+  flex-direction: column;
+}
+.rectangle34624109 {
+  position: absolute;
+  left: 762px;
+  top: 886px;
+  width: 268px;
+  height: 182px;
+  outline: solid 2px #000;
+  outline-offset: -2px;
+  border-radius: 19px;
+  background-color: #fff;
+}
+.getGuidanceFromTherapistsWhoUn {
+  color: #000;
+  font-size: 16px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 776px;
+  top: 950px;
+  width: 239px;
+  height: min-content;
+  flex-direction: column;
+}
+.support {
+  color: #000;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 776.1211px;
+  top: 908px;
+  width: 118.3398px;
+  height: min-content;
+  flex-direction: column;
+}
+.rectangle34624110 {
+  position: absolute;
+  left: 1087px;
+  top: 886px;
+  width: 268px;
+  height: 182px;
+  outline: solid 2px #000;
+  outline-offset: -2px;
+  border-radius: 19px;
+  background-color: #fff;
+}
+.participateInOurTrainingSectio {
+  color: #000;
+  font-size: 16px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1098px;
+  top: 950px;
+  width: 246px;
+  height: min-content;
+  flex-direction: column;
+}
+.learn {
+  color: #000;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1098px;
+  top: 908px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.httpsDiscordGgAnimeforhumanity {
+  color: #000;
+  font-size: 12px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1510px;
+  top: 1526px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle34624111 {
+  position: absolute;
+  left: calc(50% - 310.5px);
+  top: 1232px;
+  width: 593px;
+  height: 518px;
+  border-radius: 20px;
+  background-color: #000;
+  transform: translateX(-50%);
+}
+.rectangle34624112 {
+  position: absolute;
+  left: calc(50% - -334.5px);
+  top: 1232px;
+  width: 593px;
+  height: 518px;
+  outline: solid 1px #000;
+  outline-offset: -1px;
+  border-radius: 20px;
+  background-color: #fff;
+  transform: translateX(-50%);
+}
+.readyToJoinUsOnThisJourneyClic {
+  color: #fff;
+  font-size: 29px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 153px;
+  top: 1499px;
+  width: 523px;
+  height: 116px;
+  flex-direction: column;
+}
+.weReAllEarsClickHereToShareYou {
+  color: #000;
+  font-size: 29px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 799px;
+  top: 1491px;
+  width: 523px;
+  height: 116px;
+  flex-direction: column;
+}
+.rectangle63 {
+  position: absolute;
+  left: 153px;
+  top: 625px;
+  width: 170px;
+  height: 50px;
+  border-radius: 12px;
+  background-color: #000;
+}
+.joinDiscord {
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 186px;
+  top: 640px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle642 {
+  position: absolute;
+  left: 153px;
+  top: 1631px;
+  width: 170px;
+  height: 50px;
+  border-radius: 12px;
+  background-color: #f57e20;
+}
+.joinDiscord2 {
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 186px;
+  top: 1646px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle65 {
+  position: absolute;
+  left: 799px;
+  top: 1631px;
+  width: 170px;
+  height: 50px;
+  border-radius: 12px;
+  background-color: #de2028;
+}
+.prototypeSurvey {
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 811px;
+  top: 1646px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle66 {
+  position: absolute;
+  left: 352px;
+  top: 625px;
+  width: 170px;
+  height: 50px;
+  outline: solid 2px #000;
+  outline-offset: -2px;
+  border-radius: 12px;
+  background-color: #fff;
+}
+.prototypeSurvey2 {
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 364px;
+  top: 640px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.reading3 {
+  position: absolute;
+  left: 782px;
+  top: 1265px;
+  width: 175px;
+  height: 207px;
+  background-image:/* webpackIgnore: true */ url('/assets/reading3.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.appleIPhone11ProSpaceGrey1 {
+  position: absolute;
+  left: 934px;
+  top: 248px;
+  width: 182px;
+  height: 372px;
+  background-image:/* webpackIgnore: true */ url('/assets/appleIPhone11ProSpaceGrey1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.appleIPhone11ProSpaceGrey11 {
+  position: absolute;
+  left: 750px;
+  top: 274px;
+  width: 155px;
+  height: 319px;
+  background-image:/* webpackIgnore: true */ url('/assets/appleIPhone11ProSpaceGrey11.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.appleIPhone11ProSpaceGrey21 {
+  position: absolute;
+  left: 1145px;
+  top: 274px;
+  width: 155.4195px;
+  height: 319px;
+  background-image:/* webpackIgnore: true */ url('/assets/appleIPhone11ProSpaceGrey21.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.aboutUsLearnMoreAboutAnimeForH {
+  position: absolute;
+  left: 151px;
+  top: 2619px;
+  width: 257px;
+  height: 116px;
+  flex-direction: column;
+}
+.textBlock {
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+}
+.labelWrapper2 {
+  font-size: 16px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label3 {
+  color: #fff;
+  font-size: 16px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock3 {
+  margin-top: 0;
+}
+.labelWrapper3 {
+  font-size: 16px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.textBlock4 {
+  margin-top: 0;
+}
+.labelWrapper4 {
+  font-size: 16px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label4 {
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label5 {
+  color: #fff;
+  font-size: 16px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock5 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 16px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
